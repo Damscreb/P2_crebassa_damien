@@ -221,6 +221,10 @@ p, ul, li               /* Tout ce qui est texte en gros */
     color : #f7a005;
 }
 
+.annee {
+    width: 50%
+}
+
 .soulign
 {
     text-decoration: underline;
@@ -291,6 +295,7 @@ p, ul, li               /* Tout ce qui est texte en gros */
         position: relative;
         bottom: 46px;
         padding : 0;
+        width : 115%
     }
 
     .p2
